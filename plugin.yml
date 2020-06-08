@@ -1,0 +1,6 @@
+---
+name: ClearmyInv
+version: 0.0.1
+main: Ignacio\ClearmyInv\Main
+api: 3.12.5
+...
